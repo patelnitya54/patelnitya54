@@ -13,7 +13,7 @@ I enjoy exploring *Full Stack Development, Artificial Intelligence/Machine Learn
 ---
 
 ### 🛠️ Tech Stack
-Python C++ C HTML/CSS JavaScript SQL DSA OOP DBMS AI/ML Git GitHub VS Code Problem Solving
+`Python` `C++` `C` `HTML` `CSS` `JavaScript` `SQL` `DSA` `OOP` `DBMS` `AI/ML` `Git` `GitHub` `VS Code` `Problem Solving`
 
 ---
 
