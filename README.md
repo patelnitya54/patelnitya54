@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 About Me<br><br>Hi! I'm Nitya Patel, a passionate Computer Science enthusiast and an aspiring Full-Stack Developer. I enjoy building practical solutions with code and continuously learning new technologies. My interests span C++ development, Artificial Intelligence/Machine Learning, Cybersecurity, and Database Systems.<br><br>I’m driven by curiosity and enjoy tackling real-world problems through algorithms, system design, and scalable applications.<br><br>🌱 Currently Learning<br>Advanced C++ and Object-Oriented Programming<br>Artificial Intelligence & Machine Learning concepts with practical implementations<br>Full-Stack Web Development using JavaScript, Node.js, React, and Flask<br>Core Computer Science subjects:<br>Data Structures & Algorithms<br>Operating Systems<br>Database Management Systems<br>Linear Programming & Optimization<br>💻 Skills & Technologies<br><br>Programming Languages<br><br>C<br>C++<br>Python<br><br>Web Development<br><br>HTML<br>CSS<br><br>Database<br><br>MySQL<br>SQL<br><br>Concepts & Problem Solving<br><br>Data Structures & Algorithms<br>Linear Programming<br>Algorithmic Thinking<br><br>Tools & Platforms<br><br>Git<br>GitHub<br>VS Code<br>🚀 Projects & Achievements<br><br>Bus Reservation System<br><br>Built a MySQL-based mini project to implement practical database design and management.<br><br>Linear Programming Lab Experiments<br><br>Implemented Primal Simplex, Dual Simplex, and Duality concepts through algorithmic experimentation.<br><br>Hackathon Participation<br><br>Collaborated in coding and cybersecurity challenges, building problem-solving skills in high-pressure environments.<br><br>Competitive Programming Practice<br><br>Solved numerous DSA problems to strengthen algorithmic thinking and coding efficiency.<br>🌟 Why I Code<br><br>For me, coding is more than writing programs — it's about creating solutions, innovating ideas, and making an impact. I enjoy learning new technologies, building projects, and constantly pushing myself to grow as a developer.<br><br>📫 Let’s Connect<br><br>Feel free to explore my repositories, collaborate on projects, or reach out for discussions on technology and development!
 
-<!--
-**patelnitya54/patelnitya54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patel-nitya-a2b960316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelnitya54@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=patelnitya54&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=patelnitya54&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelnitya54&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=patelnitya54&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
